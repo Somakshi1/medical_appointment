@@ -21,12 +21,19 @@ Our data can be found on `noshowappointments-kagglev2-may-2016.csv` file provide
 
 📁 medical_appointment/
 ├── 📄 main.py            # Main script to run the project
+
 ├── 📄 database.sql       # SQL file with database schema
+
 ├── 📄 config.py          # Configuration file for database connection
+
 ├── 📂 data/              # Sample datasets (if applicable)
+
 ├── 📂 templates/         # HTML templates for frontend (if applicable)
+
 ├── 📂 static/            # CSS & JS files for UI (if applicable)
+
 ├── 📂 scripts/           # Python scripts for automation
+
 └── 📄 README.md          # Project documentation
 
 
