@@ -18,7 +18,7 @@ Our data can be found on `noshowappointments-kagglev2-may-2016.csv` file provide
 - Data visualization for appointment trends
 
 ## 📂 Project Structure
-```
+
 📁 medical_appointment/
 ├── 📄 main.py            # Main script to run the project
 ├── 📄 database.sql       # SQL file with database schema
@@ -28,31 +28,31 @@ Our data can be found on `noshowappointments-kagglev2-may-2016.csv` file provide
 ├── 📂 static/            # CSS & JS files for UI (if applicable)
 ├── 📂 scripts/           # Python scripts for automation
 └── 📄 README.md          # Project documentation
-```
+
 
 ## 🚀 Installation & Setup
 1. **Clone the repository**:
-   ```sh
+   
    git clone https://github.com/Somakshi1/medical_appointment.git
    cd medical_appointment
-   ```
+   
 2. **Create a virtual environment (optional but recommended)**:
-   ```sh
+   
    python -m venv venv
    source venv/bin/activate  # For Mac/Linux
    venv\Scripts\activate     # For Windows
-   ```
+
 3. **Install dependencies**:
-   ```sh
+4. 
    pip install -r requirements.txt
-   ```
-4. **Configure the database connection**:
+
+5. **Configure the database connection**:
    - Update `config.py` with your database credentials.
    - Ensure the database server is running.
-5. **Run the project**:
-   ```sh
+6. **Run the project**:
+  
    python main.py
-   ```
+
 
 ## 🛠 Technologies Used
 - **Python** 🐍
